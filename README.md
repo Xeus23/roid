@@ -30,6 +30,7 @@ USAGE
 <!-- commands -->
 * [`roid hello`](#roid-hello)
 * [`roid help [COMMAND]`](#roid-help-command)
+* [`roid install`](#roid-install)
 
 ## `roid hello`
 
@@ -65,4 +66,22 @@ OPTIONS
 ```
 
 _See code: [@oclif/plugin-help](https://github.com/oclif/plugin-help/blob/v2.2.3/src/commands/help.ts)_
+
+## `roid install`
+
+Describe the command here
+
+```
+USAGE
+  $ roid install
+
+OPTIONS
+  -n, --name=name  name to print
+
+DESCRIPTION
+  ...
+  Extra documentation goes here
+```
+
+_See code: [src/commands/install.js](https://github.com/Xeus23/roid/blob/v0.0.0/src/commands/install.js)_
 <!-- commandsstop -->
